@@ -51,7 +51,6 @@ final class CartViewController: UIViewController {
         super.viewDidLoad()
         setupAppearance()
         bindViewModel()
-        //        viewModel.cartSubject.send(viewModel.cartSubject.value)
     }
 }
 
